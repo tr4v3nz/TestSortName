@@ -17,7 +17,7 @@ namespace ConsoleApp1
         {
             string[] lines = new string[data.Count];
             int index = 0;
-            string fileName = @"C:\Users\tr4v3\Documents\sorted-names-list.txt";
+            string fileName = @"C:\sorted-names-list.txt";
             // Map the names to array of string
             foreach (string item in data)
             {
